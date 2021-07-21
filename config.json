@@ -1,0 +1,12 @@
+{
+    "mysql": {
+        "host": "[DB SERVER HOSTNAME]",
+        "user": "[USERNAME]",
+        "password": "[PASSWORD]",
+        "ssl_ca": "[CA CERT PATH]",
+        "ssl_verify_cert": true,
+        "ssl_cert": "[CLIENT CERTIFICATE]",
+        "ssl_key": "[CLIENT KEY]",
+        "database": "[DATABASE]"
+    }
+}
